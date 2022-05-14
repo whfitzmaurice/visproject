@@ -1,0 +1,1269 @@
+[
+ {
+   "x": 0,
+   "y": 12.2,
+   "z": 12412311,
+   "name": "AF",
+   "country": "Afghanistan"
+ },
+ {
+   "x": 5783.429552,
+   "y": 0,
+   "z": 11848385,
+   "name": "AO",
+   "country": "Angola"
+ },
+ {
+   "x": 4827.318484,
+   "y": 58.3,
+   "z": 3286070,
+   "name": "AL",
+   "country": "Albania"
+ },
+ {
+   "x": 111454.0557,
+   "y": 47.4,
+   "z": 1828437,
+   "name": "AE",
+   "country": "United Arab Emirates"
+ },
+ {
+   "x": 14144.76367,
+   "y": 62.8,
+   "z": 32618648,
+   "name": "AR",
+   "country": "Argentina"
+ },
+ {
+   "x": 5180.061203,
+   "y": 63.7,
+   "z": 3538164,
+   "name": "AM",
+   "country": "Armenia"
+ },
+ {
+   "x": 15458.45719,
+   "y": 0,
+   "z": 62533,
+   "name": "AG",
+   "country": "Antigua and Barbuda"
+ },
+ {
+   "x": 31058.25967,
+   "y": 87.3,
+   "z": 16960600,
+   "name": "AU",
+   "country": "Australia"
+ },
+ {
+   "x": 37440.83712,
+   "y": 67.5,
+   "z": 7723954,
+   "name": "AT",
+   "country": "Austria"
+ },
+ {
+   "x": 7758.154036,
+   "y": 0,
+   "z": 7242758,
+   "name": "AZ",
+   "country": "Azerbaijan"
+ },
+ {
+   "x": 1184.842005,
+   "y": 17.1,
+   "z": 5438959,
+   "name": "BI",
+   "country": "Burundi"
+ },
+ {
+   "x": 35506.23927,
+   "y": 70.5,
+   "z": 10006545,
+   "name": "BE",
+   "country": "Belgium"
+ },
+ {
+   "x": 2175.208576,
+   "y": 20.1,
+   "z": 4978489,
+   "name": "BJ",
+   "country": "Benin"
+ },
+ {
+   "x": 1017.540051,
+   "y": 0,
+   "z": 8811033,
+   "name": "BF",
+   "country": "Burkina Faso"
+ },
+ {
+   "x": 1517.729271,
+   "y": 25.1,
+   "z": 103171957,
+   "name": "BD",
+   "country": "Bangladesh"
+ },
+ {
+   "x": 12070.77397,
+   "y": 63.2,
+   "z": 8841466,
+   "name": "BG",
+   "country": "Bulgaria"
+ },
+ {
+   "x": 38601.03273,
+   "y": 57.4,
+   "z": 495927,
+   "name": "BH",
+   "country": "Bahrain"
+ },
+ {
+   "x": 38099.25383,
+   "y": 0,
+   "z": 256226,
+   "name": "BS",
+   "country": "Bahamas"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 4463422,
+   "name": "BA",
+   "country": "Bosnia and Herzegovina"
+ },
+ {
+   "x": 8895.476512,
+   "y": 0,
+   "z": 10151135,
+   "name": "BY",
+   "country": "Belarus"
+ },
+ {
+   "x": 4854.989363,
+   "y": 49.5,
+   "z": 187554,
+   "name": "BZ",
+   "country": "Belize"
+ },
+ {
+   "x": 4587.429381,
+   "y": 52.8,
+   "z": 6864839,
+   "name": "BO",
+   "country": "Bolivia"
+ },
+ {
+   "x": 10521.12101,
+   "y": 46.3,
+   "z": 149003225,
+   "name": "BR",
+   "country": "Brazil"
+ },
+ {
+   "x": 13984.19252,
+   "y": 62.5,
+   "z": 260933,
+   "name": "BB",
+   "country": "Barbados"
+ },
+ {
+   "x": 71232.78943,
+   "y": 58.8,
+   "z": 258714,
+   "name": "BN",
+   "country": "Brunei Darussalam"
+ },
+ {
+   "x": 2880.571658,
+   "y": 0,
+   "z": 530801,
+   "name": "BT",
+   "country": "Bhutan"
+ },
+ {
+   "x": 9074.2057,
+   "y": 46.1,
+   "z": 1286756,
+   "name": "BW",
+   "country": "Botswana"
+ },
+ {
+   "x": 1201.674665,
+   "y": 21.4,
+   "z": 2806740,
+   "name": "CF",
+   "country": "Central African Republic"
+ },
+ {
+   "x": 0,
+   "y": 80.6,
+   "z": 27541323,
+   "name": "CA",
+   "country": "Canada"
+ },
+ {
+   "x": 56329.21565,
+   "y": 69.5,
+   "z": 6652873,
+   "name": "CH",
+   "country": "Switzerland"
+ },
+ {
+   "x": 9849.648557,
+   "y": 62.6,
+   "z": 13274617,
+   "name": "CL",
+   "country": "Chile"
+ },
+ {
+   "x": 1423.896348,
+   "y": 40.5,
+   "z": 1176883681,
+   "name": "CN",
+   "country": "China"
+ },
+ {
+   "x": 4499.875363,
+   "y": 23.3,
+   "z": 11924873,
+   "name": "CI",
+   "country": "Cote d'Ivoire"
+ },
+ {
+   "x": 3222.945028,
+   "y": 33.9,
+   "z": 11780086,
+   "name": "CM",
+   "country": "Cameroon"
+ },
+ {
+   "x": 1819.723315,
+   "y": 26.3,
+   "z": 34612023,
+   "name": "CD",
+   "country": "DR Congo"
+ },
+ {
+   "x": 5071.8103,
+   "y": 45.5,
+   "z": 2356740,
+   "name": "CG",
+   "country": "Congo Republic"
+ },
+ {
+   "x": 8307.25326,
+   "y": 43.3,
+   "z": 33102569,
+   "name": "CO",
+   "country": "Colombia"
+ },
+ {
+   "x": 3061.330914,
+   "y": 0,
+   "z": 411598,
+   "name": "KM",
+   "country": "Comoros"
+ },
+ {
+   "x": 1748.618506,
+   "y": 0,
+   "z": 337953,
+   "name": "CV",
+   "country": "Cabo Verde"
+ },
+ {
+   "x": 9932.629839,
+   "y": 50.5,
+   "z": 3119436,
+   "name": "CR",
+   "country": "Costa Rica"
+ },
+ {
+   "x": 25286.28338,
+   "y": 54.6,
+   "z": 766616,
+   "name": "CY",
+   "country": "Cyprus"
+ },
+ {
+   "x": 23585.18149,
+   "y": 60.9,
+   "z": 10340877,
+   "name": "CZ",
+   "country": "Czech Republic"
+ },
+ {
+   "x": 36645.41034,
+   "y": 69.2,
+   "z": 79053984,
+   "name": "DE",
+   "country": "Germany"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 590393,
+   "name": "DJ",
+   "country": "Djibouti"
+ },
+ {
+   "x": 7775.437361,
+   "y": 0,
+   "z": 70422,
+   "name": "DM",
+   "country": "Dominica"
+ },
+ {
+   "x": 39027.97874,
+   "y": 69,
+   "z": 5141117,
+   "name": "DK",
+   "country": "Denmark"
+ },
+ {
+   "x": 6203.20781,
+   "y": 48.5,
+   "z": 7133491,
+   "name": "DO",
+   "country": "Dominican Republic"
+ },
+ {
+   "x": 8746.351882,
+   "y": 38.5,
+   "z": 25758872,
+   "name": "DZ",
+   "country": "Algeria"
+ },
+ {
+   "x": 8293.740675,
+   "y": 55.1,
+   "z": 10230931,
+   "name": "EC",
+   "country": "Ecuador"
+ },
+ {
+   "x": 6086.686754,
+   "y": 38.9,
+   "z": 56134478,
+   "name": "EG",
+   "country": "Egypt"
+ },
+ {
+   "x": 27543.91924,
+   "y": 59.1,
+   "z": 39202524,
+   "name": "ES",
+   "country": "Spain"
+ },
+ {
+   "x": 0,
+   "y": 67.5,
+   "z": 1565246,
+   "name": "EE",
+   "country": "Estonia"
+ },
+ {
+   "x": 767.0135653,
+   "y": 0,
+   "z": 47887864,
+   "name": "ET",
+   "country": "Ethiopia"
+ },
+ {
+   "x": 32939.38329,
+   "y": 66.6,
+   "z": 4996220,
+   "name": "FI",
+   "country": "Finland"
+ },
+ {
+   "x": 8451.44285,
+   "y": 61.6,
+   "z": 728575,
+   "name": "FJ",
+   "country": "Fiji"
+ },
+ {
+   "x": 33732.01421,
+   "y": 63.1,
+   "z": 56666861,
+   "name": "FR",
+   "country": "France"
+ },
+ {
+   "x": 2995.504774,
+   "y": 0,
+   "z": 96304,
+   "name": "FM",
+   "country": "Micronesia, Fed. Sts."
+ },
+ {
+   "x": 18179.17,
+   "y": 47.3,
+   "z": 949493,
+   "name": "GA",
+   "country": "Gabon"
+ },
+ {
+   "x": 30464.98856,
+   "y": 64.4,
+   "z": 57134377,
+   "name": "GB",
+   "country": "United Kingdom"
+ },
+ {
+   "x": 11135.46289,
+   "y": 0,
+   "z": 5410400,
+   "name": "GE",
+   "country": "Georgia"
+ },
+ {
+   "x": 2342.366319,
+   "y": 37.5,
+   "z": 14773274,
+   "name": "GH",
+   "country": "Ghana"
+ },
+ {
+   "x": 1507.640611,
+   "y": 12.1,
+   "z": 6352282,
+   "name": "GN",
+   "country": "Guinea"
+ },
+ {
+   "x": 2265.233478,
+   "y": 18.3,
+   "z": 955595,
+   "name": "GM",
+   "country": "Gambia"
+ },
+ {
+   "x": 1994.661475,
+   "y": 0,
+   "z": 975265,
+   "name": "GW",
+   "country": "Guinea-Bissau"
+ },
+ {
+   "x": 1039.985049,
+   "y": 0,
+   "z": 419188,
+   "name": "GQ",
+   "country": "Equatorial Guinea"
+ },
+ {
+   "x": 24306.5524,
+   "y": 60.7,
+   "z": 10225990,
+   "name": "GR",
+   "country": "Greece"
+ },
+ {
+   "x": 8813.923837,
+   "y": 0,
+   "z": 96328,
+   "name": "GD",
+   "country": "Grenada"
+ },
+ {
+   "x": 5561.070684,
+   "y": 28.4,
+   "z": 9263820,
+   "name": "GT",
+   "country": "Guatemala"
+ },
+ {
+   "x": 4843.092273,
+   "y": 50.7,
+   "z": 743306,
+   "name": "GY",
+   "country": "Guyana"
+ },
+ {
+   "x": 28798.4586,
+   "y": 64,
+   "z": 5727942,
+   "name": "HK",
+   "country": "Hong Kong"
+ },
+ {
+   "x": 3990.029065,
+   "y": 35.5,
+   "z": 4955302,
+   "name": "HN",
+   "country": "Honduras"
+ },
+ {
+   "x": 0,
+   "y": 49.8,
+   "z": 4776370,
+   "name": "HR",
+   "country": "Croatia"
+ },
+ {
+   "x": 3229.619556,
+   "y": 28.8,
+   "z": 7037915,
+   "name": "HT",
+   "country": "Haiti"
+ },
+ {
+   "x": 0,
+   "y": 59.8,
+   "z": 10377135,
+   "name": "HU",
+   "country": "Hungary"
+ },
+ {
+   "x": 4532.540351,
+   "y": 38.9,
+   "z": 181413398,
+   "name": "ID",
+   "country": "Indonesia"
+ },
+ {
+   "x": 1813.135853,
+   "y": 31.1,
+   "z": 873277799,
+   "name": "IN",
+   "country": "India"
+ },
+ {
+   "x": 26793.49228,
+   "y": 66,
+   "z": 3510881,
+   "name": "IE",
+   "country": "Ireland"
+ },
+ {
+   "x": 8630.835216,
+   "y": 39.7,
+   "z": 56366212,
+   "name": "IR",
+   "country": "Iran"
+ },
+ {
+   "x": 7684.828337,
+   "y": 37.3,
+   "z": 17419113,
+   "name": "IQ",
+   "country": "Iraq"
+ },
+ {
+   "x": 0,
+   "y": 67.8,
+   "z": 255044,
+   "name": "IS",
+   "country": "Iceland"
+ },
+ {
+   "x": 0,
+   "y": 71.4,
+   "z": 4448348,
+   "name": "IL",
+   "country": "Israel"
+ },
+ {
+   "x": 36585.6799,
+   "y": 59.9,
+   "z": 57048237,
+   "name": "IT",
+   "country": "Italy"
+ },
+ {
+   "x": 8592.387094,
+   "y": 50.9,
+   "z": 2419901,
+   "name": "JM",
+   "country": "Jamaica"
+ },
+ {
+   "x": 7924.177623,
+   "y": 49.6,
+   "z": 3565888,
+   "name": "JO",
+   "country": "Jordan"
+ },
+ {
+   "x": 32168.76411,
+   "y": 69.1,
+   "z": 124505243,
+   "name": "JP",
+   "country": "Japan"
+ },
+ {
+   "x": 13475.6399,
+   "y": 61.3,
+   "z": 16383881,
+   "name": "KZ",
+   "country": "Kazakhstan"
+ },
+ {
+   "x": 3209.913187,
+   "y": 37.6,
+   "z": 23724574,
+   "name": "KE",
+   "country": "Kenya"
+ },
+ {
+   "x": 5158.317569,
+   "y": 61.9,
+   "z": 4372885,
+   "name": "KG",
+   "country": "Kyrgyz Republic"
+ },
+ {
+   "x": 0,
+   "y": 27.6,
+   "z": 8975597,
+   "name": "KH",
+   "country": "Cambodia"
+ },
+ {
+   "x": 2134.123517,
+   "y": 0,
+   "z": 72394,
+   "name": "KI",
+   "country": "Kiribati"
+ },
+ {
+   "x": 15160.70517,
+   "y": 0,
+   "z": 40260,
+   "name": "KN",
+   "country": "St. Kitts and Nevis"
+ },
+ {
+   "x": 12656.39606,
+   "y": 67.6,
+   "z": 42918416,
+   "name": "KR",
+   "country": "South Korea"
+ },
+ {
+   "x": 0,
+   "y": 47.6,
+   "z": 2095350,
+   "name": "KW",
+   "country": "Kuwait"
+ },
+ {
+   "x": 1964.572977,
+   "y": 28.8,
+   "z": 4258471,
+   "name": "LA",
+   "country": "Laos"
+ },
+ {
+   "x": 7552.859281,
+   "y": 0,
+   "z": 2803032,
+   "name": "LB",
+   "country": "Lebanon"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 2075917,
+   "name": "LR",
+   "country": "Liberia"
+ },
+ {
+   "x": 0,
+   "y": 51.6,
+   "z": 4436663,
+   "name": "LY",
+   "country": "Libya"
+ },
+ {
+   "x": 11709.59952,
+   "y": 0,
+   "z": 138019,
+   "name": "LC",
+   "country": "St. Lucia"
+ },
+ {
+   "x": 3878.309338,
+   "y": 59.2,
+   "z": 17325769,
+   "name": "LK",
+   "country": "Sri Lanka"
+ },
+ {
+   "x": 1336.633304,
+   "y": 41.5,
+   "z": 1703757,
+   "name": "LS",
+   "country": "Lesotho"
+ },
+ {
+   "x": 0,
+   "y": 65.5,
+   "z": 3696035,
+   "name": "LT",
+   "country": "Lithuania"
+ },
+ {
+   "x": 67641.5636,
+   "y": 60.2,
+   "z": 381780,
+   "name": "LU",
+   "country": "Luxembourg"
+ },
+ {
+   "x": 0,
+   "y": 60.4,
+   "z": 2664447,
+   "name": "LV",
+   "country": "Latvia"
+ },
+ {
+   "x": 3816.993613,
+   "y": 25.4,
+   "z": 24807461,
+   "name": "MA",
+   "country": "Morocco"
+ },
+ {
+   "x": 0,
+   "y": 59.8,
+   "z": 4365562,
+   "name": "MD",
+   "country": "Moldova"
+ },
+ {
+   "x": 1853.049388,
+   "y": 0,
+   "z": 11598647,
+   "name": "MG",
+   "country": "Madagascar"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 223159,
+   "name": "MV",
+   "country": "Maldives"
+ },
+ {
+   "x": 14949.03015,
+   "y": 48,
+   "z": 83943135,
+   "name": "MX",
+   "country": "Mexico"
+ },
+ {
+   "x": 3302.108436,
+   "y": 0,
+   "z": 47265,
+   "name": "MH",
+   "country": "Marshall Islands"
+ },
+ {
+   "x": 11378.16066,
+   "y": 0,
+   "z": 1996218,
+   "name": "MK",
+   "country": "Macedonia"
+ },
+ {
+   "x": 1414.886475,
+   "y": 8.1,
+   "z": 8449915,
+   "name": "ML",
+   "country": "Mali"
+ },
+ {
+   "x": 16106.91767,
+   "y": 60.5,
+   "z": 362017,
+   "name": "MT",
+   "country": "Malta"
+ },
+ {
+   "x": 619.6453094,
+   "y": 25.1,
+   "z": 41335188,
+   "name": "MM",
+   "country": "Myanmar"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 615004,
+   "name": "ME",
+   "country": "Montenegro"
+ },
+ {
+   "x": 4983.778131,
+   "y": 53.9,
+   "z": 2184139,
+   "name": "MN",
+   "country": "Mongolia"
+ },
+ {
+   "x": 471.3251025,
+   "y": 13.1,
+   "z": 12987292,
+   "name": "MZ",
+   "country": "Mozambique"
+ },
+ {
+   "x": 4640.932334,
+   "y": 17.8,
+   "z": 2034347,
+   "name": "MR",
+   "country": "Mauritania"
+ },
+ {
+   "x": 7989.529896,
+   "y": 48.1,
+   "z": 1055869,
+   "name": "MU",
+   "country": "Mauritius"
+ },
+ {
+   "x": 936.0602098,
+   "y": 23.1,
+   "z": 9404499,
+   "name": "MW",
+   "country": "Malawi"
+ },
+ {
+   "x": 10306.08209,
+   "y": 48.8,
+   "z": 18029824,
+   "name": "MY",
+   "country": "Malaysia"
+ },
+ {
+   "x": 5945.970793,
+   "y": 49.5,
+   "z": 1432899,
+   "name": "NA",
+   "country": "Namibia"
+ },
+ {
+   "x": 1124.922326,
+   "y": 8.2,
+   "z": 8026592,
+   "name": "NE",
+   "country": "Niger"
+ },
+ {
+   "x": 3259.6429,
+   "y": 0,
+   "z": 95212454,
+   "name": "NG",
+   "country": "Nigeria"
+ },
+ {
+   "x": 3454.267648,
+   "y": 34.9,
+   "z": 4173435,
+   "name": "NI",
+   "country": "Nicaragua"
+ },
+ {
+   "x": 36461.41902,
+   "y": 74.6,
+   "z": 14965442,
+   "name": "NL",
+   "country": "Netherlands"
+ },
+ {
+   "x": 42136.61626,
+   "y": 77.2,
+   "z": 4247286,
+   "name": "NO",
+   "country": "Norway"
+ },
+ {
+   "x": 1616.649398,
+   "y": 27.6,
+   "z": 18905480,
+   "name": "NP",
+   "country": "Nepal"
+ },
+ {
+   "x": 28086.82413,
+   "y": 78.7,
+   "z": 3398175,
+   "name": "NZ",
+   "country": "New Zealand"
+ },
+ {
+   "x": 26558.52373,
+   "y": 0,
+   "z": 1812158,
+   "name": "OM",
+   "country": "Oman"
+ },
+ {
+   "x": 2915.900175,
+   "y": 20.5,
+   "z": 107647918,
+   "name": "PK",
+   "country": "Pakistan"
+ },
+ {
+   "x": 10726.00275,
+   "y": 53.8,
+   "z": 2470946,
+   "name": "PA",
+   "country": "Panama"
+ },
+ {
+   "x": 5249.200384,
+   "y": 55.1,
+   "z": 22071433,
+   "name": "PE",
+   "country": "Peru"
+ },
+ {
+   "x": 4231.791736,
+   "y": 51.9,
+   "z": 61895169,
+   "name": "PH",
+   "country": "Philippines"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 15063,
+   "name": "PW",
+   "country": "Palau"
+ },
+ {
+   "x": 2434.700123,
+   "y": 20.7,
+   "z": 4615843,
+   "name": "PG",
+   "country": "Papua New Guinea"
+ },
+ {
+   "x": 11314.96237,
+   "y": 66.5,
+   "z": 37960193,
+   "name": "PL",
+   "country": "Poland"
+ },
+ {
+   "x": 23556.85621,
+   "y": 53.6,
+   "z": 9895358,
+   "name": "PT",
+   "country": "Portugal"
+ },
+ {
+   "x": 8475.736625,
+   "y": 43.1,
+   "z": 4223413,
+   "name": "PY",
+   "country": "Paraguay"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 2101445,
+   "name": "PS",
+   "country": "Palestine"
+ },
+ {
+   "x": 0,
+   "y": 50.7,
+   "z": 476275,
+   "name": "QA",
+   "country": "Qatar"
+ },
+ {
+   "x": 13302.47218,
+   "y": 63.2,
+   "z": 23489156,
+   "name": "RO",
+   "country": "Romania"
+ },
+ {
+   "x": 21482.74819,
+   "y": 66.3,
+   "z": 147531562,
+   "name": "RU",
+   "country": "Russia"
+ },
+ {
+   "x": 936.6343101,
+   "y": 21.8,
+   "z": 7288883,
+   "name": "RW",
+   "country": "Rwanda"
+ },
+ {
+   "x": 41392.53306,
+   "y": 48.9,
+   "z": 16233786,
+   "name": "SA",
+   "country": "Saudi Arabia"
+ },
+ {
+   "x": 1602.893604,
+   "y": 15.9,
+   "z": 20147592,
+   "name": "SD",
+   "country": "Sudan"
+ },
+ {
+   "x": 2472.784404,
+   "y": 19.8,
+   "z": 7526306,
+   "name": "SN",
+   "country": "Senegal"
+ },
+ {
+   "x": 37412.32775,
+   "y": 48.8,
+   "z": 3012968,
+   "name": "SG",
+   "country": "Singapore"
+ },
+ {
+   "x": 2317.999402,
+   "y": 0,
+   "z": 311869,
+   "name": "SB",
+   "country": "Solomon Islands"
+ },
+ {
+   "x": 1460.778937,
+   "y": 19,
+   "z": 4319763,
+   "name": "SL",
+   "country": "Sierra Leone"
+ },
+ {
+   "x": 5264.676231,
+   "y": 38.2,
+   "z": 5270074,
+   "name": "SV",
+   "country": "El Salvador"
+ },
+ {
+   "x": 0,
+   "y": 61,
+   "z": 9517677,
+   "name": "RS",
+   "country": "Serbia"
+ },
+ {
+   "x": 0,
+   "y": 32.3,
+   "z": 119211,
+   "name": "ST",
+   "country": "Sao Tome and Principe"
+ },
+ {
+   "x": 13888.90629,
+   "y": 0,
+   "z": 405169,
+   "name": "SR",
+   "country": "Suriname"
+ },
+ {
+   "x": 0,
+   "y": 67.9,
+   "z": 5288455,
+   "name": "SK",
+   "country": "Slovakia"
+ },
+ {
+   "x": 0,
+   "y": 69.6,
+   "z": 2006404,
+   "name": "SI",
+   "country": "Slovenia"
+ },
+ {
+   "x": 34156.8203,
+   "y": 71,
+   "z": 8567375,
+   "name": "SE",
+   "country": "Sweden"
+ },
+ {
+   "x": 5097.823609,
+   "y": 40.7,
+   "z": 822423,
+   "name": "SZ",
+   "country": "Eswatini"
+ },
+ {
+   "x": 14584.81916,
+   "y": 0,
+   "z": 70572,
+   "name": "SC",
+   "country": "Seychelles"
+ },
+ {
+   "x": 1003.785541,
+   "y": 0,
+   "z": 5963250,
+   "name": "TD",
+   "country": "Chad"
+ },
+ {
+   "x": 1787.174459,
+   "y": 31,
+   "z": 3774310,
+   "name": "TG",
+   "country": "Togo"
+ },
+ {
+   "x": 7102.056264,
+   "y": 38.7,
+   "z": 56558196,
+   "name": "TH",
+   "country": "Thailand"
+ },
+ {
+   "x": 4092.861603,
+   "y": 65.2,
+   "z": 5283811,
+   "name": "TJ",
+   "country": "Tajikistan"
+ },
+ {
+   "x": 7207.933949,
+   "y": 0,
+   "z": 3683978,
+   "name": "TM",
+   "country": "Turkmenistan"
+ },
+ {
+   "x": 0,
+   "y": 0,
+   "z": 737814,
+   "name": "TL",
+   "country": "Timor-Leste"
+ },
+ {
+   "x": 3765.390121,
+   "y": 65.6,
+   "z": 95069,
+   "name": "TO",
+   "country": "Tonga"
+ },
+ {
+   "x": 10080.83787,
+   "y": 57.5,
+   "z": 1221121,
+   "name": "TT",
+   "country": "Trinidad and Tobago"
+ },
+ {
+   "x": 5432.327495,
+   "y": 40.6,
+   "z": 8242509,
+   "name": "TN",
+   "country": "Tunisia"
+ },
+ {
+   "x": 12629.46728,
+   "y": 39.9,
+   "z": 53921758,
+   "name": "TR",
+   "country": "Turkey"
+ },
+ {
+   "x": 1392.221946,
+   "y": 27.3,
+   "z": 25203848,
+   "name": "TZ",
+   "country": "Tanzania"
+ },
+ {
+   "x": 907.7614413,
+   "y": 25,
+   "z": 17354395,
+   "name": "UG",
+   "country": "Uganda"
+ },
+ {
+   "x": 15751.72244,
+   "y": 64.8,
+   "z": 51463101,
+   "name": "UA",
+   "country": "Ukraine"
+ },
+ {
+   "x": 11066.12886,
+   "y": 59.7,
+   "z": 3109598,
+   "name": "UY",
+   "country": "Uruguay"
+ },
+ {
+   "x": 40411.16034,
+   "y": 83.9,
+   "z": 252120309,
+   "name": "US",
+   "country": "United States"
+ },
+ {
+   "x": 3416.724096,
+   "y": 0,
+   "z": 20398347,
+   "name": "UZ",
+   "country": "Uzbekistan"
+ },
+ {
+   "x": 6547.425762,
+   "y": 0,
+   "z": 107489,
+   "name": "VC",
+   "country": "St. Vincent and the Grenadines"
+ },
+ {
+   "x": 1673.249806,
+   "y": 34.8,
+   "z": 67988855,
+   "name": "VN",
+   "country": "Vietnam"
+ },
+ {
+   "x": 2855.900688,
+   "y": 0,
+   "z": 146575,
+   "name": "VU",
+   "country": "Vanuatu"
+ },
+ {
+   "x": 4055.027494,
+   "y": 57.7,
+   "z": 162797,
+   "name": "WS",
+   "country": "Samoa"
+ },
+ {
+   "x": 10296.44084,
+   "y": 53.2,
+   "z": 36800507,
+   "name": "ZA",
+   "country": "South Africa"
+ },
+ {
+   "x": 2190.181724,
+   "y": 36.5,
+   "z": 8036849,
+   "name": "ZM",
+   "country": "Zambia"
+ },
+ {
+   "x": 3594.929437,
+   "y": 42.3,
+   "z": 10432409,
+   "name": "ZW",
+   "country": "Zimbabwe"
+ }
+]
